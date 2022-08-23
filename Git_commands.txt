@@ -1,0 +1,3 @@
+# Rollback a wrong Merge
+  Option 1. PyCharm -> Git -> Abort Merge
+  Option 2. git merge --abort
